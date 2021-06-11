@@ -1,6 +1,6 @@
 # Table of contents
 
-* [AChing's Book](README.md)
+* [AChing's Notes](README.md)
 
 ## Language C/C++ <a id="language-c-c++-1"></a>
 
