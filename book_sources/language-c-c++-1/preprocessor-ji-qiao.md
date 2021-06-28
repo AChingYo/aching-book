@@ -12,10 +12,10 @@
 ```
 
 #### References
+<!---
+https://clang.llvm.org/docs/LanguageExtensions.html\#langext-has-include
 
-{% embed url="https://clang.llvm.org/docs/LanguageExtensions.html\#langext-has-include" %}
-
-{% embed url="https://isocpp.org/std/standing-documents/sd-6-sg10-feature-test-recommendations" %}
-
+https://isocpp.org/std/standing-documents/sd-6-sg10-feature-test-recommendations
+-->
 
 

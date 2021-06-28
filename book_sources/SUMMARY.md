@@ -1,8 +1,7 @@
-# Table of contents
+# Summary
 
 * [Initial page](README.md)
 
-## Language C/C++ <a id="language-c-c++-1"></a>
-
+## Language C/C++
 * [Preprocessor 技巧](language-c-c++-1/preprocessor-ji-qiao.md)
 
