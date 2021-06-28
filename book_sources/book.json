@@ -30,7 +30,7 @@
           }
       },
       "edit-link": {
-        "base": "https://github.com/<你的 GitHub 帳號>/demo-build-and-publish-gitbook/edit/master/",
+        "base": "https://github.com/AChingYo/aching-book/edit/master/book_sources/",
         "label": "Edit This Page"
       },
       "ga": {
