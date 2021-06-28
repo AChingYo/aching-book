@@ -6,7 +6,9 @@ description: 這個GitBook將不定期更新工作與生活的筆記以便日後
 
 ## Home Page
 
-{% embed url="https://achingyo.github.io/" %}
+<!---
+https://achingyo.github.io/
+-->
 
 
 
