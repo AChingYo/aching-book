@@ -1,5 +1,5 @@
 {
-	"plugins": [  "anchor-navigation-ex", "edit-link", "copy-code-button", "theme-comscore" ],
+	"plugins": [  "anchor-navigation-ex", "edit-link", "copy-code-button", "theme-comscore", "ga" ],
 	"pluginsConfig": {
 		"fontsettings": {
 			"theme": "night",
@@ -29,6 +29,9 @@
 		"edit-link": {
 			"base": "https://github.com/AChingYo/aching-book/edit/master/book_sources/",
 			"label": "Edit This Page"
+		},
+		"ga": {
+			"token": "UA-201042297-1"
 		}
 	}
 }
